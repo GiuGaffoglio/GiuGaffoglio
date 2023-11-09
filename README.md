@@ -11,7 +11,7 @@
 
 🤷‍♀️ Me encanta hacer capacitaciones en Geologia, Peleontologia, mientras mas informacion en mi cabeza sobre la naturaleza...mejor. Amo poder compartir mi conocimiento y mostrar todo lo imponente de nuestra naturaleza 💚♻
 
-⌨️ En proceso de mucho aprendizaje programadora.
+⌨️ En proceso de mucho aprendizaje como programadora.
 
 🏅 Experiencia en Python, Java y JavaScripts adquirida en distintos proyectos desarrollados a lo largo de toda la carrera.
 
